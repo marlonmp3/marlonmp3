@@ -1,6 +1,6 @@
 ### Olá! Sou Marlon Viana!
           
-- 🔭 Hoje em dia estou trabalhando num projeto de um site de ecommerce
+- 🔭 Trabalhando em um projeto de ecommerce
 - 🌱 Estou aprendendo FrameWorks de Front-End, como: React.Js, Next.Js utilizando TypeScript
 - 📫 Entre em contato comigo no email: marlonbviana13@gmail.com 
 - 😄 Pronouns: Ele/Dele
