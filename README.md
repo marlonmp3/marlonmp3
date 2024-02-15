@@ -3,7 +3,7 @@
 - 🔭 Trabalhando em um projeto de ecommerce
 - 🌱 Estou aprendendo FrameWorks de Front-End, como: React.Js, Next.Js utilizando TypeScript
 - 📫 Entre em contato comigo no email: marlonbviana13@gmail.com 
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: Ela/Ele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
