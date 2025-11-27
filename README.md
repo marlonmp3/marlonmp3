@@ -1,4 +1,4 @@
-### Olá! Sou Marlon Viana!
+### Olá! Sou Linn Viana!
           
 - 🔭 Trabalhando como freelancer
 - 🌱 Trabalho com FrameWorks de Front-End, como: React.Js, Next.Js utilizando TypeScript. Também faço automações utilizando Python.
