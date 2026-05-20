@@ -1,7 +1,7 @@
 ### Olá! Sou Linn Viana!
           
 - 🔭 Trabalhando como freelancer
-- 🌱 Trabalho com FrameWorks de Front-End, como: React.Js, Next.Js utilizando TypeScript. Também faço automações utilizando Python.
+- 🌱 Trabalho com FrameWorks de Front-End e back-end. Também faço automações utilizando Python.
 - 📫 Entre em contato comigo no email: linnviana.mp3@gmail.com 
 - 😄 Pronouns: Ela/Ele
 
